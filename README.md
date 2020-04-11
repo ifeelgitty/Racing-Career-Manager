@@ -6,6 +6,8 @@ As someone who has been playing racing simulators for nearly a decade now, somet
 
 This is a very early beta. You can already see how it works, most thingy actually do work, but there are bugs and missing functions everywhere(from starting a second season to, well, viewing your garage!). Also, in the process of adding new features I will overhaul old ones, so expect lots of changes and don't expect "savegames" to work. The App is certainly not self-explanatory, so I will at some point add appropriate tutorials/info screens in-app. This is also true for modding: I will create a manual that fully explains how to deal with the CSV-files, but that will be done when Im far enough to feel comfortable that the way I structure the CSV-files doesn't change much anymore(should be quite soon).
 
+**The vehicle list and race series included is not up to date and far from complete. It is mostly for demonstration and development purposes. Mod them as much as you like!**
+
 In the long term, lots of functionality will be added, from Sponsorships to random events and whatever else I can come up with. I will probably release a proper list of that at some point soon. Don't expect major upgrades to the User Interface soon, it will probably stay quite simple, as I find it a lot more fun to implement functionality codewise than having to deal with UI-stuff, which I find annoying.
 
 **I'm happy to get feedback in any way, suggestions for features, improvements, problems you ran into, bugs etc.**
@@ -30,6 +32,18 @@ I feel the need to add that the money in game is virtual, you will neither pay n
 ## What it offers
 
 Racing yourself through the career ladder, signing up for different racing series, going through cycles of seasons. And the best thing: Everything is **moddable**. The car list as well as the different racing series are saved as **csv files, so as tables, which means that you can add your favorite cars and racing series and combine different games**. You're not set to just one simulator. So, if you prefer the F1 cars in Assetto Corsa over the ones in Automobilista, just use them! 
+
+## Buying Cars
+
+*The Car store, where you have a list with all vehicles to buy*
+
+<img src="https://raw.githubusercontent.com/ifeelgitty/Racing-Career-Manager/master/tut-img/CarStore.PNG"  title="Carstore" width=600>
+
+Buying cars is quite straightforward: **If you have the money, you can buy them**. All relevant attributes are shown, including their type, class and prize. Whether you can sign up for racing series that use this car, however, depends on the requirements for that series, which might be linked to you holding the required license. **In a future iteration, the store will also show which games include these vehicles, so you have an impression of which car makes most sense for you**.
+
+On a related note, while you can buy cars, **you can't look at your garage yet**. I somehow haven't implemented that yet, but **will do that soon**. This also gives you the opportunity to **sell your cars**, at a reduced prize of course, which reduces with every year that you've owned it.
+
+Additionally, there will be a **used car store**. This holds cars that are not available in the normal shop, probably rather old cars. A couple of times per year, the list of cars will be refreshed, with **each car having an individual likeliness of popping up**. Therefore, you might want to hold your money together, in case that very rare car you always wanted is finally available for purchase. Not only this however, but the **prize for the vehicle will vary**, so maybe, maybe, the offer you're seeing there is completely overpriced and it might make sense to wait another year... maybe...
 
 ## Racing Seasons
 
@@ -61,8 +75,20 @@ This also brings us to another aspect: Finances! You will have **costs and a rev
 
 <img src="https://github.com/ifeelgitty/Racing-Career-Manager/blob/Readme/tut-img/StageTable.png?raw=true"  title="The Stages!" width=712>
 
-When setting up your profile, you can choose whatever amount of credits you want to start with, also dictating which stage you are able to start on. Generally, you work your way up, trying to make enough money to finance seasons in higher stages, which you might also need a license for.
+When setting up your profile, you can choose whatever amount of credits you want to start with, also dictating which stage you are able to start on. Generally, you work your way up, trying to make enough money to finance seasons in higher stages, while winning the required license to be able to attend. Licenses are obtained by scoring a certain position in a championship, while the stage technically does not represent anything else than the total amount of money you will spend per year on the season, races and the vehicle.
 
+Race Length | Race Multiplier | 
+--- | --- 
+Short | 1
+Medium | 1
+Long | 1
+Endurance | 2
+12 Hours | 3
+24 Hours | 4
+
+While the number of races per stage is just an indicator, there is a second factor to keep in mind: The Race Length. **It wouldn't be fair to get the same prize money for winning a sprint race than for winning the 24 hours of Le Mans.** Therefore, from a predefined list of race lengths seen above, **some count as "multiple" races**. This means that a **racing series like the WEC has effectively less races per season than Formula one, as the average race is simply longer. It also has an effect in that it multiplies the cost for signing up and the race prize money by the same factor.**
+
+It is up to you to interpret the "real" lengths you want to race lengths to equate to. I, for example, generally halve the lengths of all races, regardless of whether its short or long, compared to their real counterparts. 
 
 
 ## The Calendar
@@ -113,3 +139,8 @@ For each session, you will see the above window. At the end of the actual sessio
 
 <img src="https://github.com/ifeelgitty/Racing-Career-Manager/blob/Readme/tut-img/RaceView.PNG?raw=true"  title="Race" width=712>
 
+As for the practice views, the race view includes a **section for damage** obtained during the race and the **Final Position**. Additionally, you can indicate your **final state, whether you've finished or not**. Only if you qualy as a finisher, you will receive Prize Money. You also have to **indicate your championship position after the race**. This is for statistical purposes, but the championship position after the final race counts as your final championship position, based on which the season prize money will be calculated.
+
+In the example above, we've finished second, which, as this is the first race, also means that we're currently second in the championship. Deducting the costs for the weekend damages, adding up to 1,125$, we end up with a total weekend gain of about 31,000$(excluding the cost for signing up for the race).
+
+And the end of the race weekend, a summary of the weekend will be shown. The same is true for the end of the season. Both are so far in a quite early state, and I am expecting to implement quite nice stats and other feature that make this more alluring.
