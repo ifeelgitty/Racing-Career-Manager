@@ -1,0 +1,62 @@
+fforduk;;;Formula Ford UK;OW;Formula Ford;E;AMS;Europe;;Bronze;3;18;18000;4;1;10;1;Short;5;;false;0;0;false
+Silverstone;1;UK;false;false;0;***Snetterton;1;UK;false;false;0;***Thruxton;1;UK;false;false;0;***Oulton Park;1;UK;false;false;0;***Brands Hatch;1;UK;false;false;0;***Knockhill;1;UK;false;false;0;***
+v8supercars;;;V8 Supercars;TC;V8 Supercars;A;AMS;Australia;Platinum;Super;1;26;600000;2;2;12;1;Long;10;;false;0;0;false
+Melbourne;1;Australia;false;true;2;***Adelaide;1;Australia;false;true;1;***Queensland;1;Australia;false;true;0;***Eastern Creek;1;Australia;false;true;0;***Winton;1;Australia;false;true;0;***Bathurst;1;Australia;false;true;8;Endurance***Road America;1;USA;false;false;0;***Putnam;1;USA;false;false;0;***Virginia;1;USA;false;false;0;***Laguna Seca;1;USA;false;false;0;***VeloPark;1;Brazil;false;false;0;***Interlagos;1;Brazil;false;false;0;***Montreal;1;Canada;false;false;0;***Suzuka;1;Japan;false;false;0;***Abu Dhabi;1;UAE;false;false;0;***
+psupercup;formula1;;Porsche Supercup;GT;Carrera Cup;B;AMS;World;Gold;Platinum;3;22;236000;3;2;11;4;Medium;8;;false;0;0;false
+
+scbrazil;;;Stock Car Brazil;TC;Stock Car Brazil;B;AMS;Samerica;Gold;Platinum;3;18;220000;2;3;10;4;Long;9;;false;0;0;false
+Velopark;1;Brazil;false;false;0;***Curvelo;1;Brazil;false;false;0;***Brasilia;1;Brazil;false;false;0;***Campo Grande;1;Brazil;false;false;0;***Caruaru;1;Brazil;false;false;0;***Cascavel;1;Brazil;false;false;0;***Curitiba;1;Brazil;false;false;0;***Floripa;1;Brazil;false;false;0;***Gioania;1;Brazil;false;false;0;***Guapore;1;Brazil;false;false;0;***Interlagos;1;Brazil;false;true;0;***Jacarepagua;1;Brazil;false;false;0;***Londrina;1;Brazil;false;false;0;***Ribeirao Preto;1;Brazil;false;false;0;***Salvador;1;Brazil;false;false;0;***Santa Cruz du Sol;1;Brazil;false;false;0;***Taruma;1;Brazil;false;false;0;***Cordoba;1;Argentina;false;false;0;***
+formulae;;;Formula E;OW;Formula E;A;RF2;World;Platinum;Super;2;18;817000;1;3;12;1;Medium;9;;false;0;0;false
+Hong Kong;1;HK;false;true;0;***Mores;1;Italy;false;false;0;***Silverstone;1;UK;false;false;0;***Toban;1;USA;false;false;0;***Lime Rock;1;USA;false;false;0;***Palm Beach;1;USA;false;false;0;***Sebring;1;USA;false;false;0;***Putnam;1;USA;false;false;0;***Mills;1;USA;false;false;0;***Suzuka;1;Japan;false;false;0;***
+ffordaus;v8supercars;;Formula Ford Australia;OW;Formula Ford;E;AMS;Australia;;Bronze;3;18;18000;1;1;12;4;Short;5;;true;0;0;false
+
+weclmp;;WEC;LMP 1;PT;LMP1;S;RF2;World;Platinum;Super;2;18;1250000;3;4;11;1;Endurance;6;;false;0;0;false
+Le Mans;1;France;true;true;3;24h***Sebring;1;USA;false;true;0;12h***Suzuka;1;Japan;false;false;0;***Sepang;1;Malaysia;false;false;0;***Silverstone;1;UK;false;false;0;***Portugal;1;Portugal;false;false;0;***Sao Paulo;1;Brazil;false;false;0;***Indianapolis;1;USA;false;false;0;***Lime Rock;1;USA;false;false;0;***Mid-Ohio;1;USA;false;false;0;***Mills Metropark;1;USA;true;true;0;24h***Toban;1;USA;false;false;0;***Palm Beach;1;USA;false;false;0;***
+wecgte;weclmp;WEC;GTE;GT;GTE;A;RF2;World;Platinum;;;18;400000;1;1;12;4;Endurance;6;;false;0;0;false
+
+formula1;;;Formula 1;OW;Formula 1;S;AMS;World;Super;;;20;1300000;3;2;11;3;Long;12;;false;0;0;false
+Baku;1;Azerbaijan;false;false;0;***Suzuka;1;Japan;false;false;0;***Abu Dhabi;1;UAE;false;false;0;***Spielberg;1;Austria;false;false;0;***Spa;1;Belgium;false;true;8;***Magny-Cours;1;France;false;false;0;***Nurburgring;1;Germany;false;false;0;***Hockenheimring;1;Germany;false;false;0;***Silverstone;1;UK;false;false;0;***Imola;1;Italy;false;false;0;***Monza;1;Italy;false;true;9;***Barcelona;1;Spain;false;true;0;***Jerez;1;Spain;false;false;0;***Montreal;1;Canada;false;false;0;***COTA;1;USA;false;false;0;***Melbourne;1;Australia;false;true;1;***Interlagos;1;Brazil;false;false;0;***Adelaide;1;Australia;false;false;0;***Hungaroring;1;Hungary;false;false;0;***Monte Carlo;1;Monaco;false;true;4;***
+pcarger;;;Porsche Carrera Cup Germany;GT;Carrera Cup;C;AMS;Australia;Silver;Gold;3;23;236000;4;1;9;3;Medium;6;;false;0;0;false
+Nurburgring;1;Germany;false;true;0;***Spa;1;Belgium;false;true;0;***Hockenheimring;1;Germany;false;true;0;***Mendig;1;Germany;false;true;0;***Spielberg;1;Austria;false;true;0;***Brands Hatch;1;UK;false;false;0;***Oulton Park;1;UK;false;false;0;***Silverstone;1;UK;false;false;0;***Monza;1;Italy;false;false;0;***Imola;1;Italy;false;false;0;***Cadwell Park;1;UK;false;false;0;***
+pcaraus;v8supercars;;Porsche Carrera Cup Australia;GT;Carrera Cup;C;AMS;Europe;Silver;Gold;3;19;236000;4;2;10;2;Medium;6;;false;0;0;false
+
+f3brazil;scbrazil;;Formula 3 Brazil;OW;Formula 3;D;AMS;Samerica;Bronze;Silver;4;22;150000;1;1;12;4;Medium;6;;false;0;0;false
+
+f3euro;;;Formula 3 Eurocup;OW;Formula 3;C;AMS;Europe;Silver;Gold;5;28;180000;3;3;10;2;Medium;7;;false;0;0;false
+Portimao;1;Portugal;false;false;0;***Barcelona;1;Spain;false;false;0;***Jerez;1;Spain;false;false;0;***Magny-Cours;1;France;false;false;0;***Monza;1;Italy;false;false;0;***Nurburgring;1;Germany;false;false;0;***Silverstone;1;UK;false;false;0;***Spa;1;Belgium;false;false;0;***Brands Hatch;1;UK;false;false;0;***Hockenheimring;1;Germany;false;false;0;***Imola;1;Italy;false;false;0;***Spielberg;1;Austria;false;false;0;***
+gp3;formula1;;GP3;OW;GP3;B;AMS;World;Gold;Platinum;3;24;380000;1;1;12;4;Medium;8;;false;0;0;false
+
+lancerrx;;;Lancer Rallycross X;RL;Lancer RX;E;AMS;World;;;;8;65000;1;1;3;1;Short;5;;false;0;0;false
+Foz;1;Brazil;false;true;0;***Hockenheimring;1;Germany;false;true;0;***Buskerud;1;Norway;false;true;0;***Tykki Dirt 2;1;Finland;false;false;0;***Tykki Dirt 2;1;Finland;false;false;0;***Tykki RX;1;Finland;false;false;0;***Tykki Tarmac;1;Finland;false;false;0;***
+fdirt;;;Formula Dirt;RL;Formula Dirt;F-1;AMS;World;;;;20;32000;12;3;12;4;Short;2;;false;0;0;false
+Ascurra;1;Brazil;false;false;0;***Buskerud Ice;1;Norway;false;false;0;***
+cots;;;Challenge of the Stars;OW;125ccd;F-1;AMS;Samerica;Super;;;23;6000;12;2;12;3;Short;2;;false;0;0;false
+Floripa 1;1;Brazil;false;false;0;***Floripa 2;1;Brazil;false;false;0;***Floripa 3;1;Brazil;false;false;0;***Floripa 4;1;Brazil;false;false;0;***
+super2;v8supercars;;Dunlop Super 2;TC;Super 2;B;AMS;Australia;Gold;Platinum;3;26;368000;1;1;12;4;Medium;8;;false;0;0;false
+
+cmontana;scbrazil;;Copa Montana;TC;Copa Montana;D;AMS;Samerica;Bronze;Silver;3;25;145000;1;1;12;4;Medium;6;;false;0;0;false
+
+v8utes;v8supercars;;V8 Utes;TC;Copa Montana;D;AMS;Australia;Bronze;Silver;3;25;145000;1;1;12;4;Medium;6;;false;0;0;false
+
+arc;v8supercars;;Aussie Racing Cars;TC;Aussie Racing Cars;E;AMS;Australia;;Bronze;3;20;42000;1;1;12;4;Short;5;;false;0;0;false
+
+strucks;;;Super Trucks;OT;Super Trucks;E;AMS;World;Silver;;;20;72000;3;3;11;2;Short;6;;false;0;0;false
+Adelaide;1;Australia;false;false;0;***Cascavel;1;Brazil;false;false;0;***Cordoba;1;Argentina;false;false;0;***Curitiba;1;Brazil;false;false;0;***Goiania;1;Brazil;false;false;0;***Guapore;1;Brazil;false;false;0;***Suzuka;1;Japan;false;false;0;***Mendig;1;Germany;false;false;0;***Montreal;1;Canada;false;false;0;***Salvador;1;Brazil;false;false;0;***
+gx390ortona;;;Ortona Bambino Cup;OW;GX390;F-3;AMS;Europe;;;;18;1000;4;1;6;2;Short;4;;false;0;0;false
+Ortona Kart 1;1;Italy;false;false;0;***Ortona Kart 2;1;Italy;false;false;0;***Ortona Kart 3;1;Italy;false;false;0;***Ortona Kart 4;1;Italy;false;false;1;***
+gx390floripa;;;Floripa Kart Junior Cup;OW;GX390;F-3;AMS;Samerica;;;;18;1000;10;1;12;2;Short;4;;false;0;0;false
+Floripa Kart 1;1;Brazil;false;false;0;***Floripa Kart 2;1;Brazil;false;false;0;***Floripa Kart 3;1;Brazil;false;false;0;***Floripa Kart 4;1;Brazil;false;false;1;***
+gx390sp;;;Sao Paulo Bambino Challenge;OW;GX390;F-3;AMS;Samerica;;;;18;1000;3;2;11;3;Short;5;;false;0;0;false
+Speedland 3;1;Brazil;false;false;0;***Speedland 4;1;Brazil;false;false;0;***Interlagos Kart 3;1;Brazil;false;false;0;***Interlagos Kart 2;1;Brazil;false;false;0;***Granja Viana 6;1;Brazil;false;false;0;***Granja Viana 5;1;Brazil;false;false;0;***
+ekcj;ekcshi;;European Karting Challenge - Juniors;OW;GX390 Race;F-2;AMS;Europe;;;;18;2000;1;1;12;4;Short;4;;false;0;0;false
+
+ekcsen;ekcshi;;European Karting Challenge - Seniors;OW;125cc Direct;F-1;AMS;Europe;;;;18;5000;1;1;12;4;Short;5;;false;0;0;false
+
+ekcshi;;;European Karting Challenge - Shifters;OW;125cc Shifter;F-1;AMS;Europe;;;;18;8000;4;1;10;3;Short;5;;false;0;0;false
+Buskerud 1;1;Norway;false;false;0;***Buskerud 2;1;Norway;false;false;0;***Ortona 1;1;Italy;false;false;0;***Ortona 2;1;Italy;false;false;0;***Ortona 3;1;Italy;false;false;0;***Ortona 4;1;Italy;false;false;0;***
+bncj;bncshi;;Brazilian National Cup - Juniors;OW;GX390 Race;F-2;AMS;Samerica;;;;18;2000;1;1;12;4;Short;4;;false;0;0;false
+
+bncsen;bncshi;;Brazilian National Cup - Seniors;OW;125cc Direct;F-1;AMS;Samerica;;;;18;5000;1;1;12;4;Short;5;;false;0;0;false
+
+bncshi;;;Brazilian National Cup - Shifters;OW;125cc Shifter;F-1;AMS;Samerica;;;;18;8000;3;2;11;2;Short;5;;false;0;0;false
+Floripa;1;Brazil;false;false;0;***Granja Viana;1;Brazil;false;false;0;***Interlagos;1;Brazil;false;false;0;***Londrina;1;Brazil;false;false;0;***Speedland;1;Brazil;false;false;0;***
