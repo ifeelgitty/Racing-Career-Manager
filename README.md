@@ -1,1 +1,22 @@
 # Racing-Career-Manager
+
+As someone who has been playing racing simulators for nearly a decade now, something has always been missing: (A girlfriend?) A long-term motivation like it was found in the early Gran Turismo games, the feeling of **buying and owning cars, racing for a reason, climbing through the stages of motorsport, earning licenses etc.** While most modern racing simulator-creators will spend loads of money and months on getting the air pressure simulation of the tyres right, none of them really seemed to care about this part of the experience. This ends now(a bit)! Because I'm working on a free and simple(and ugly) software which simulates this career, **embedding any simulator to buy cars, race championships and ultimately work yourself through the ranks of racing**. 
+
+## A Disclaimer
+
+This software has been created to help you keep track of your career, allowing for any simulator and any combination of different simulators to be used in context of a racing career. What it does not do though is: Read out results from your game or save championship standings with points etc. **You actually have to keep track of the championship standings inside the game(AMS, AC, RRR) or with additional software(rf2) and then type in the position you scored in as well as the damage your car had into the software, so it can calculate all the relevant measures.** As this is a one-person project and the world of racing simulators moves fast, too many resources would have to go into developing plugins, which probably are out of date easily anyway.
+
+## What it offers
+
+Racing yourself through the career ladder, signing up for different racing series, going through cycles of seasons. And the best thing: Everything is **moddable**. The car list as well as the different racing series are saved as **csv files, so as tables, which means that you can add your favorite cars and racing series and combine different games**. You're not set to just one simulator. So, if you prefer the F1 cars in Assetto Corsa over the ones in Automobilista, just use them! 
+
+## Racing Seasons
+
+One thing I’ve been annoyed with in many Racing Games is the static season setup. Where is the re-play value when every season is set up in the exact same way with the same tracks? Therefore, **every season in this software will look differently, with a newly generated calendar every season!** Every series has a list of tracks with some being “mandatory” and some optional. For example, a Formula 1 season will always have Barcelona at some point during the season, while Nurburgring is an optional race, which might or might not be included in a season. This can even go further, with a race like Melbourne being set to “Spot 1”, always being the first race of the season. Thereby, you will have some stability and some variety in-between seasons, keeping it fresh but also not totally random.
+
+Now, while for most races you will have to be signed up for the series to be able to sign up for the race, there are exceptions. We’ve all seen how race drivers try their hands on the Le Mans 24h or the Indy 500. Therefore, **some races you can attend without signing up for the whole season**. However, while you will get prize money for the race, you won’t get any season prize money for your final championship position(because you are not signed up for the championship).
+
+## Managing your Finances 
+
+This also brings us to another aspect: Finances! You will have **costs and a revenue stream** that needs to be balanced to not break the bank. You will purchase cars, sign up for testing, sign up for racing series and sign up for races. You will also have to **pay for damages** to your car in any of those sessions. Income is provided by **prize money** that you can win both by finishing well in races and the overall championship. By finishing rather high in the standings, you will gain enough profit to finance taking part in a higher-staged championship in the following season. But even if you’re in the lower part of the field, you are still well-capable to support another season in the same category. This corrects something I have never been fond of in some racing games: **It is not at all expected of you to always win championships to advance in your career, it should rather be the exception**. Also: As long as you’re somehow competitive, even if just occasionally getting into the top 10, this is typically enough to stay in the same category.
+
