@@ -1,4 +1,6 @@
-# Racing-Career-Manager (v0.1)
+# Racing-Career-Manager (v0.2)
+
+**Warning: v0.2 not compatible with previous files or savegames**
 
 As someone who has been playing racing simulators for nearly a decade now, something has always been missing: (A girlfriend?) A long-term motivation like it was found in the early Gran Turismo games, the feeling of **buying and owning cars, racing for a reason, climbing through the stages of motorsport, earning licenses etc.** While most modern racing simulator-creators will spend loads of money and months on getting the air pressure simulation of the tyres right, none of them really seemed to care about this part of the experience. This ends now(a bit)! Because I'm working on a free and simple(and ugly) software which simulates this career, **embedding any simulator to buy cars, race championships and ultimately work yourself through the ranks of racing**. 
 
@@ -41,7 +43,7 @@ Racing yourself through the career ladder, signing up for different racing serie
 
 Buying cars is quite straightforward: **If you have the money, you can buy them**. All relevant attributes are shown, including their type, class and prize. Whether you can sign up for racing series that use this car, however, depends on the requirements for that series, which might be linked to you holding the required license. **In a future iteration, the store will also show which games include these vehicles, so you have an impression of which car makes most sense for you**.
 
-On a related note, while you can buy cars, **you can't look at your garage yet**. I somehow haven't implemented that yet, but **will do that soon**. This also gives you the opportunity to **sell your cars**, at a reduced prize of course, which reduces with every year that you've owned it.
+There also is a **garage** in which you can see the cars you own and **sell them at heavy discounts**, if you need to!
 
 Additionally, there will be a **used car store**. This holds cars that are not available in the normal shop, probably rather old cars. A couple of times per year, the list of cars will be refreshed, with **each car having an individual likeliness of popping up**. Therefore, you might want to hold your money together, in case that very rare car you always wanted is finally available for purchase. Not only this however, but the **prize for the vehicle will vary**, so maybe, maybe, the offer you're seeing there is completely overpriced and it might make sense to wait another year... maybe...
 
@@ -64,6 +66,18 @@ One thing I’ve been annoyed with in many Racing Games is the static season set
 Now, while for most races you will have to be signed up for the series to be able to sign up for the race, there are exceptions. We’ve all seen how race drivers try their hands on the Le Mans 24h or the Indy 500. Therefore, **some races you can attend without signing up for the whole season**. However, while you will get prize money for the race, you won’t get any season prize money for your final championship position(because you are not signed up for the championship).
 
 Some racing series are just **support categories for bigger championships**. Formula 2 and 3 race at a selected group of F1 races, or the Australian Formula 4 supports the larger (V8) Supercars category. Therefore, calendars can be “inherited”. Randomly, the support championships take part at some of the races of the main championship.
+
+## Setting Up a Season
+
+*First screen of setting up a new season: Choose the games you want to include and the sorting mechanism, in case some series are included for multiple games.*
+
+<img src="https://raw.githubusercontent.com/ifeelgitty/Racing-Career-Manager/master/tut-img/SeasonSetUp1.PNG"  title="The Stages!" width=712>
+
+*On the second screen you can then change the automatic selection, in case you want to. Here for example you can see that three series are both implemented in AMS and AC, so you can pick and choose!*
+
+<img src="https://github.com/ifeelgitty/Racing-Career-Manager/blob/master/tut-img/SeasonSetUp2.PNG"  title="The Stages!" width=712>
+
+Before every season you can set up the games you want to include. In case one series like formula 1 is implemented in multiple games, you can pick which one to include for the season. For the examples above, the ordering is AMS -> RF2 -> AC, which means that the automatic selection prefers the AMS-implementations. However, you can change this in the second screen for each of the series if you like!
 
 ## Managing your Finances 
 
