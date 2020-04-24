@@ -1,0 +1,7 @@
+ID;Calendar;Upper;Name;Category;Class;Stage;Game;Region;LicenseReq;LicenseGa;LicenseIf;CarsNo;CarPrice;RunStartMonth;RunStartWeek;RunEndMonth;RunEndWeek;RaceLength;RaceNo;CarToWin
+formula1;;;Formula 1;OW;Formula 1;S;AC;World;Super;;;20;1300000;3;2;11;3;Long;12;
+psupercup;formula1;;Porsche Supercup;GT;Carrera Cup;B;AC;World;Gold;Platinum;3;22;236000;3;2;11;4;Medium;8;
+gp3;formula1;;GP3;OW;GP3;B;AC;World;Gold;Platinum;3;24;380000;;;;;Medium;8;
+formula2;formula1;;Formula 2;OW;Formula 2;A;AC;World;Platinum;Super;3;20;980000;;;;;Medium;10;
+gt4europe;gtwceurope;;GT4 European Series;GT;GT4;C;AC;Europe;Bronze;Silver;3;24;155000;;;;;Medium;6;
+gtwceurope;;;GT World Challenge Europe;GT;GT3;A;AC;Europe;Platinum;Super;1;24;450000;4;3;11;1;Endurance;6;

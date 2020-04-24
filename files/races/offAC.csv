@@ -1,0 +1,28 @@
+Track;Variants;Country;NoSignUp;Mandatory;Spot;Length
+;;;;;;
+formula1;AC;;;;;
+Suzuka;;Japan;;;;
+Red Bull Ring;;Austria;;;;
+Spa;;Belgium;;;;
+Nurburgring;;Germany;;;;
+Mugello;;Italy;;;;
+Monza;;Italy;;;;
+Imola;;Italy;;;;
+Barcelona;;Spain;;;;
+Silverstone;;GB;;;;
+Interlagos;;Brazil;;;;
+Sepang;;Malaysia;;;;
+Zandvoort;;Netherlands;;;;
+;;;;;;
+gtwceurope;AC;;;;;
+Zandvoort;;Netherlands;;;;
+Spa;;Belgium;1;1;4;24h
+Nurburgring;;Germany;;;;Endurance
+Barcelona;;Spain;;;;Endurance
+Imola;;Italy;;;;Medium
+Monza;;Italy;;;;Endurance
+Mugello;;Italy;;;;Medium
+Silverstone;;GB;;;;Endurance
+Donington;;GB;;;;Medium
+Paul Ricard;;France;;;;Medium
+Red Bull Ring;;Austria;;;;Medium

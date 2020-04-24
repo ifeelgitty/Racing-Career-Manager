@@ -30,3 +30,7 @@ ekcshi;;;European Karting Challenge - Shifters;OW;125cc Shifter;F-1;AMS;Europe;;
 bncj;bncshi;;Brazilian National Cup - Juniors;OW;GX390 Race;F-2;AMS;Samerica;;;;;2000;;;;;Short;4;
 bncsen;bncshi;;Brazilian National Cup - Seniors;OW;125cc Direct;F-1;AMS;Samerica;;;;;5000;;;;;Short;5;
 bncshi;;;Brazilian National Cup - Shifters;OW;125cc Shifter;F-1;AMS;Samerica;;;;;8000;3;2;11;2;Short;5;
+imsadpi;;IMSA;DPi;PT;DPi;A;RF2;Namerica;Platinum;Super;1;8;1000000;1;2;11;4;Endurance;6;
+imsalmp2;imsadpi;IMSA;LMP2;PT;LMP2;B;RF2;Namerica;Gold;Platinum;3;7;580000;;;;;Endurance;6;
+imsagtlm;imsadpi;IMSA;GTLM;GT;GTE;B;RF2;Namerica;Gold;Platinum;3;8;470000;;;;;Endurance;6;
+imsagtd;imsadpi;IMSA;GTD;GT;GT3;C;RF2;Namerica;Silver;Gold;3;8;450000;;;;;Endurance;6;
