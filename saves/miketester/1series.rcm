@@ -8,7 +8,7 @@ scbrazil;;;Stock Car Brazil;TC;Stock Car Brazil;B;AMS;Samerica;Gold;Platinum;3;1
 Velopark;1;Brazil;false;false;0;***Curvelo;1;Brazil;false;false;0;***Brasilia;1;Brazil;false;false;0;***Campo Grande;1;Brazil;false;false;0;***Caruaru;1;Brazil;false;false;0;***Cascavel;1;Brazil;false;false;0;***Curitiba;1;Brazil;false;false;0;***Floripa;1;Brazil;false;false;0;***Gioania;1;Brazil;false;false;0;***Guapore;1;Brazil;false;false;0;***Interlagos;1;Brazil;false;true;0;***Jacarepagua;1;Brazil;false;false;0;***Londrina;1;Brazil;false;false;0;***Ribeirao Preto;1;Brazil;false;false;0;***Salvador;1;Brazil;false;false;0;***Santa Cruz du Sol;1;Brazil;false;false;0;***Taruma;1;Brazil;false;false;0;***Cordoba;1;Argentina;false;false;0;***
 formulae;;;Formula E;OW;Formula E;A;RF2;World;Platinum;Super;2;18;817000;1;3;12;1;Medium;9;;false;0;0;false
 Hong Kong;1;HK;false;true;0;***Mores;1;Italy;false;false;0;***Silverstone;1;UK;false;false;0;***Toban;1;USA;false;false;0;***Lime Rock;1;USA;false;false;0;***Palm Beach;1;USA;false;false;0;***Sebring;1;USA;false;false;0;***Putnam;1;USA;false;false;0;***Mills;1;USA;false;false;0;***Suzuka;1;Japan;false;false;0;***
-ffordaus;v8supercars;;Formula Ford Australia;OW;Formula Ford;E;AMS;Australia;;Bronze;3;18;18000;1;1;12;4;Short;5;;true;0;0;false
+ffordaus;v8supercars;;Formula Ford Australia;OW;Formula Ford;E;AMS;Australia;;Bronze;3;18;18000;1;1;12;4;Short;5;;false;0;0;false
 
 weclmp;;WEC;LMP 1;PT;LMP1;S;RF2;World;Platinum;Super;2;18;1250000;3;4;11;1;Endurance;6;;false;0;0;false
 Le Mans;1;France;true;true;3;24h***Sebring;1;USA;false;true;0;12h***Suzuka;1;Japan;false;false;0;***Sepang;1;Malaysia;false;false;0;***Silverstone;1;UK;false;false;0;***Portugal;1;Portugal;false;false;0;***Sao Paulo;1;Brazil;false;false;0;***Indianapolis;1;USA;false;false;0;***Lime Rock;1;USA;false;false;0;***Mid-Ohio;1;USA;false;false;0;***Mills Metropark;1;USA;true;true;0;24h***Toban;1;USA;false;false;0;***Palm Beach;1;USA;false;false;0;***
@@ -60,3 +60,23 @@ bncsen;bncshi;;Brazilian National Cup - Seniors;OW;125cc Direct;F-1;AMS;Samerica
 
 bncshi;;;Brazilian National Cup - Shifters;OW;125cc Shifter;F-1;AMS;Samerica;;;;18;8000;3;2;11;2;Short;5;;false;0;0;false
 Floripa;1;Brazil;false;false;0;***Granja Viana;1;Brazil;false;false;0;***Interlagos;1;Brazil;false;false;0;***Londrina;1;Brazil;false;false;0;***Speedland;1;Brazil;false;false;0;***
+imsadpi;;IMSA;DPi;PT;DPi;A;RF2;Namerica;Platinum;Super;1;8;1000000;1;2;11;4;Endurance;6;;false;0;0;false
+Sebring;1;USA;true;true;3;12h***Apple Valley SCC;1;USA;true;true;1;24h***Toban;1;USA;false;false;0;***Palm Beach;1;USA;false;false;0;***Mills Metropark;1;USA;false;false;0;***Lime Rock;1;USA;false;false;0;***Indianapolis;1;USA;false;false;0;***Virginia IR;1;USA;false;false;0;***Road Atlanta;1;USA;false;false;0;***Watkins Glen;1;USA;false;false;0;***Mid-Ohio;1;USA;false;false;0;***
+imsalmp2;imsadpi;IMSA;LMP2;PT;LMP2;B;RF2;Namerica;Gold;Platinum;3;7;580000;1;1;12;4;Endurance;6;;false;0;0;false
+
+imsagtlm;imsadpi;IMSA;GTLM;GT;GTE;B;RF2;Namerica;Gold;Platinum;3;8;470000;1;1;12;4;Endurance;6;;false;0;0;false
+
+imsagtd;imsadpi;IMSA;GTD;GT;GT3;C;RF2;Namerica;Silver;Gold;3;8;450000;1;1;12;4;Endurance;6;;false;0;0;false
+
+formula1;;;Formula 1;OW;Formula 1;S;AC;World;Super;;;20;1300000;3;2;11;3;Long;12;;false;0;0;false
+Suzuka;1;Japan;false;false;0;***Red Bull Ring;1;Austria;false;false;0;***Spa;1;Belgium;false;false;0;***Nurburgring;1;Germany;false;false;0;***Mugello;1;Italy;false;false;0;***Monza;1;Italy;false;false;0;***Imola;1;Italy;false;false;0;***Barcelona;1;Spain;false;false;0;***Silverstone;1;GB;false;false;0;***Interlagos;1;Brazil;false;false;0;***Sepang;1;Malaysia;false;false;0;***Zandvoort;1;Netherlands;false;false;0;***
+psupercup;formula1;;Porsche Supercup;GT;Carrera Cup;B;AC;World;Gold;Platinum;3;22;236000;3;2;11;4;Medium;8;;false;0;0;false
+
+gp3;formula1;;GP3;OW;GP3;B;AC;World;Gold;Platinum;3;24;380000;1;1;12;4;Medium;8;;false;0;0;false
+
+formula2;formula1;;Formula 2;OW;Formula 2;A;AC;World;Platinum;Super;3;20;980000;1;1;12;4;Medium;10;;false;0;0;false
+
+gt4europe;gtwceurope;;GT4 European Series;GT;GT4;C;AC;Europe;Bronze;Silver;3;24;155000;1;1;12;4;Medium;6;;false;0;0;false
+
+gtwceurope;;;GT World Challenge Europe;GT;GT3;A;AC;Europe;Platinum;Super;1;24;450000;4;3;11;1;Endurance;6;;false;0;0;false
+Zandvoort;1;Netherlands;false;false;0;***Spa;1;Belgium;true;true;4;24h***Nurburgring;1;Germany;false;false;0;Endurance***Barcelona;1;Spain;false;false;0;Endurance***Imola;1;Italy;false;false;0;Medium***Monza;1;Italy;false;false;0;Endurance***Mugello;1;Italy;false;false;0;Medium***Silverstone;1;GB;false;false;0;Endurance***Donington;1;GB;false;false;0;Medium***Paul Ricard;1;France;false;false;0;Medium***Red Bull Ring;1;Austria;false;false;0;Medium***

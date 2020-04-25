@@ -1,0 +1,63 @@
+sonicSC;Chevrolet;Sonic SC;TC;Stock Car Brazil;2015;220000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+408SC;Peugeot;408 SC;TC;Stock Car Brazil;2015;220000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+commodoreV8;Holden;Commodore V8;TC;V8 Supercars;2017;600000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+falconv8;Ford;Falcon V8;TC;V8 Supercars;2017;600000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+altimav8;Nissan;Altima V8;TC;V8 Supercars;2017;600000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+fford;Ford;Formula Ford;OW;Formula Ford;2012;18000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||true~~~ACC|||false;false;0
+vwvee;Volkswagen;Vee;OW;Formula Vee;2011;15000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+911gt3cup;Porsche;911 GT3 Cup;GT;Carrera Cup;2017;236000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+formulae;Spark;Formula E;OW;Formula E;2017;817000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+r18;Audi;R18;PT;LMP1;2015;1250000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+corvettec7r;Chevrolet;Corvette C7.R;GT;GTE;2014;400000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+f309;Dallara;F309;OW;Formula 3;2009;180000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||true~~~R3E|||true~~~ACC|||false;false;0
+gp313;Dallara;GP3/13;OW;GP3;2013;380000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+lancerrx;Mitsubishi;Lancer Evo Rallycross;RL;Lancer RX;2016;65000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+fdirt;Reiza;Formula Dirt;RL;Formula Dirt;2017;32000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+125ccdbody;Reiza;125cc Direct Bodywork;OW;125cc d body;2015;6000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+superv8;Reiza;Super V8;TC;Super 2;2016;368000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+montana;Chevrolet;Copa Montana;TC;Copa Montana;2010;145000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+arc;Chevorlet;Aussie Racing Car;TC;Aussie Racing Cars;2012;42000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+supertruck;Reiza;Super Truck;OT;Super Trucks;2015;72000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+fcargo;Ford;Cargo;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+istralis;Iveco;Stralis;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+mtgx;MAN;TGX;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+maxor;Mercedes;Axor;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+sg470;Scania;G470;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+vconst;Volkswagen;Constellation;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+vfm;Volvo;FM;OT;Formula Truck;2013;420000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+gx390;Reiza;GX390;OW;GX390;2014;1000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+gx390r;Reiza;GX390 Race;OW;GX390 Race;2014;2000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+125ccd;Reiza;125cc Direct;OW;125cc Direct;2014;5000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+125ccs;Reiza;125cc Shifter;OW;125cc Shifter;2014;8000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||true~~~R3E|||false~~~ACC|||false;false;0
+sf70h;Ferrari;SF70H;OW;Formula 1;2017;1350000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+gp211;Dallara;GP2/11;OW;Formula 2;2017;980000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||false;false;0
+r8lms2016;Audi;R8 LMS 2016;GT;GT3;2016;450000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||true;false;0
+m6gt3;BMW;M6 GT3;GT;GT3;2016;450000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||true;false;0
+488gt3;Ferrari;488 GT3;GT;GT3;2016;450000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+huracangt3;Lamborghini;Huracan GT3;GT;GT3;2015;450000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+650sgt3;McLaren;650S GT3;GT;GT3;2015;440000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||false;false;0
+720sgt3;McLaren;720S GT3;GT;GT3;2019;480000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+amggt3;Mercedes;AMG GT3;GT;GT3;2016;450000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||true;false;0
+gtrgt3;Nissan;GT-R GT3;GT;GT3;2012;430000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||true~~~ACC|||true;false;0
+911gt3r2016;Porsche;911 GT3 R 2016;GT;GT3;2016;450000;0.0;true;~~~AC|||true~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+911gt3r2019;Porsche;911 GT3 R 2019;GT;GT3;2019;480000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||false~~~R3E|||true~~~ACC|||true;false;0
+rxcturbogt3;Radical;RXC Turbo GT3;GT;GT3;2016;420000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+corvettec7gt3r;Callaway;Corvette C7 GT3-R;GT;GT3;2016;450000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||false;false;0
+continentalgt3;Bentley;Continental GT3;GT;GT3;2014;440000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||true~~~ACC|||false;false;0
+vantagegt3;Aston Martin;Vantage GT3;GT;GT3;2012;420000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+caymangt4clubsport;Porsche;Cayman GT4 Clubsport;GT;GT4;2017;165000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||true~~~ACC|||false;false;0
+granturismomcgt4;Maserati;GranTurismo MC GT4;GT;GT4;2016;155000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+2elevengt4;Lotus;2-Eleven GT4;GT;GT4;2008;150000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+m235iracing;BMW;M235i Racing;GT;GT4;2014;145000;0.0;true;~~~AC|||true~~~RF2|||false~~~AMS|||false~~~R3E|||true~~~ACC|||false;false;0
+vantageamrgt3;Aston Martin;Vantage AMR GT3;GT;GT3;2019;480000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+continentalgt32018;Bentley;Continental GT3 2018;GT;GT3;2018;485000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+nsxgt3;Honda;NSX GT3;GT;GT3;2016;450000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+rcfgt3;Lexus;RC F GT3;GT;GT3;2017;440000;0.0;true;~~~AC|||false~~~RF2|||false~~~AMS|||false~~~R3E|||false~~~ACC|||true;false;0
+dpivr;Cadillac;DPi-V.R;PT;DPi;2017;1000000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+arx05;Acura;ARX-05;PT;DPi;2018;1000000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+rt24p;Mazda;RT24-P;PT;DPi;2017;1000000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+vantageamrgte;Aston Martin;Vantage AMR GTE;GT;GTE;2018;470000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+m8gte;BMW;M8 GTE;GT;GTE;2018;470000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+991rsr;Porsche;991 RSR;GT;GTE;2017;470000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+oreca07;Oreca;7;PT;LMP2;2017;580000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
+corvettec7rgte;Chevrolet;Corvette C7.R GTE;GT;GTE;2014;470000;0.0;true;~~~AC|||false~~~RF2|||true~~~AMS|||false~~~R3E|||false~~~ACC|||false;false;0
